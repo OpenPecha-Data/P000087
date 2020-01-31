@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །ལུང་སྟོན་པ་ཀ་ལཱ་པའི་མཚམས་སྦྱོར་ལྔ་པའི་ལག་ལེན་བསྟན་བཅོས་བློ་གསལ་མགུལ་རྒྱན་མེ་ལོང་མའི་དོན་འགྲེལ་དོན་རྒྱན་སོ་ལྔའི་དཔེར་བརྗོད་འབྱུང་རྩིས་ཀྱི་རེའུ་མིག་ཉེར་མཁོ་ཀེག་རྩིས་ཞེ་བདུན་མའི་རྡེལ་བཤད་བལ་མོ་ལྡིང་སྐོར་གྱི་རྡེལ་བཤད་ཞལ་གདམས་དང་གཏམ་ཚོགས་བཅའ་ཡིག་གི་སྐོར་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-04
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Instructions on Language, Grammar, and Poetry
+    bo: སྒྲ་རིག་པ་དང་བརྡ་དག་སྙན་གསུམ་ཞལ་གདམས་བཅས།༼ང༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 4
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༤
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-04
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-04.epub
+  description:
+    en: ''
+    bo: ''
